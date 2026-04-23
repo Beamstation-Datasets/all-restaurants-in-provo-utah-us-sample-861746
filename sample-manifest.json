@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b496f658-bce3-4192-adf9-8b8f2c3e008b",
+  "export_job_id": "b6a23ce7-c45b-4379-bae1-3dd76481d9ba",
   "id_short": 861746,
-  "published_at": "2026-04-19T19:45:28Z",
+  "published_at": "2026-04-23T19:50:21Z",
   "repo_name": "all-restaurants-in-provo-utah-us-sample-861746",
   "sample_asset_name": "beamstation_861746_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/861746/beamstation_861746_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "490eca13337a9b91a50e5b59d9cb9432de81d2cebd89a9cd0e6438be9cd127a9",
-  "sample_size_bytes": 111270,
-  "total_records": 277
+  "sample_records": 17,
+  "sample_sha256": "2ea74d52bdb09b0c8872e1ec422fc31ff584d7f23835792a345a104ded948741",
+  "sample_size_bytes": 81237,
+  "total_records": 179
 }
