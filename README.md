@@ -1,6 +1,6 @@
 # All Restaurants in Provo, Utah, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `861746` |
 | Location | Provo |
 | Category | Restaurants |
-| Full dataset size | 277 records |
-| Free sample size | 27 records (9.75%) |
-| Last export | 2026-04-16T20:49:10.952514+00:00 |
+| Full dataset size | 179 records |
+| Free sample size | 17 records (9.5%) |
+| Last export | 2026-04-23T15:55:19.477520+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-provo-utah-us-sample-861746/releases/download/sample-latest/beamstation_861746_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
